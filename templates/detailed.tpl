@@ -5,6 +5,8 @@ ${comment.line} [${fid}] ${name}
 ${comment.line}
 ${comment.line} ${link}
 ${comment.line}
+${comment.line} Tags: ${tags}
+${comment.line}
 ${comment.line} ${category}
 ${comment.line} ${level} (${percent}%)
 ${comment.line} Total Accepted:    ${totalAC}
